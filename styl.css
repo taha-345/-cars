@@ -1,0 +1,138 @@
+.taha{
+    list-style-type: none;
+    padding-bottom: 50px;
+    margin: 0;
+    overflow: hidden;
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    position: fixed;
+    top: 0;
+    font-size: 30px;
+    
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+
+    padding: 10px;
+    text-align: center;
+    display: block;
+    
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+li{
+    float: left;
+}
+a:hover{
+    background-color: rgba(158, 154, 154, 0.897);
+
+}
+.race{
+    width: 1440px;
+}
+ 
+.order{
+    text-align: center;
+    background-color: rgb(213, 205, 205);
+    border-radius: 5px;
+    
+}
+.three{
+display:inline;
+list-style: none;
+width: 50px;
+
+}
+.two{
+    color: black;
+    text-decoration: none;
+    background-color: black;
+    border-radius: 10px;
+}
+.four{
+    width: 1440px;
+}
+.five{
+    background-color: rgb(37, 161, 161);
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 600px;
+}
+.five:hover{
+color: blue;
+}
+.six{
+    background-color: rgba(175, 171, 171, 0.692);
+    box-shadow: 0,0,10px;
+    width: 900px;
+margin: auto;
+border-radius: 10px;
+
+}
+
+.fivee{
+    background-color: rgb(37, 161, 161);
+    text-align: center;
+    border-radius: 5px;
+}
+.nine{
+    background-color: red;
+    color: black;
+
+}
+h3{
+    text-align: center;
+    background-color: green;
+}
+input{
+    border: 1px solid red;
+    text-align: center;
+    margin: auto;
+}
+.inputee{
+    text-align: center;
+    border: 3px solid blue;
+    width: 400px;
+    margin: auto;
+}
+.Welcom{
+    background-image: url(imges/صورة\ واتساب\ بتاريخ\ 1446-09-25\ في\ 04.13.32_11612581.jpg);
+padding-bottom: 300px;
+background-size: cover;
+background-position: center;
+
+}
+.Welcom h1{
+    color: white;
+    text-align: center;
+    padding-top: 500px;
+    font-size: 100px;
+}
+
+
+.seven{
+    text-align: center;
+    width: 60%;
+    
+    margin:20px auto;
+    background-color: rgba(175, 171, 171, 0.692);
+    border-radius: 10px;
+    padding: 40px;
+}
+.seven img{
+width: 300px;
+margin-right: 30px;
+background-color: rgba(175, 171, 171, 0.692);
+
+border-radius: 10px;
+
+}
+
+
+
+
